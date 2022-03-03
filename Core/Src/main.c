@@ -26,8 +26,8 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "CAN_Filter.h"
-#include "CAN_buffer.h"
-#include "USB_buffer.h"
+#include "CAN_Buffer.h"
+#include "USB_Buffer.h"
 #include "PollingRoutines.h"
 #include "GPIO_Ports.h"
 /* USER CODE END Includes */

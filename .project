@@ -30,11 +30,4 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>CommonLibraries</name>
-			<type>2</type>
-			<location>E:/My Documents/Keil_Projects/CommonLibraries</location>
-		</link>
-	</linkedResources>
 </projectDescription>
